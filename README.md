@@ -25,11 +25,13 @@ SETUP, SOLUTION, AND INSIGHTS.**
 #
 
 # 🔗 Live Demo
+
 🌐 This project is deployed! You can use it here: Live App ( https://tdhanushkumar-linear-programming-task-four.hf.space )
 
 #
 
 **📘 Description**
+
 This project is a Flask-based web application 🖥️ that allows users to solve an optimization problem using Linear Programming (LP) 📊. Users input parameters such as profit per unit, labor requirements, and material constraints 🏭, and the system calculates the optimal number of products to maximize profit 💰.
 
 #
@@ -103,3 +105,8 @@ Total available material=40
 ✅ Optimal Units of Product B: 7.14
 
 ✅ Maximum Profit (Z): $164.29 💰
+
+#
+
+# Web_App Images(https://tdhanushkumar-linear-programming-task-four.hf.space):
+
