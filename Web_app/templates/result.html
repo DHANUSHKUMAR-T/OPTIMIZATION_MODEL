@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Optimization Result</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="result-container">
+        <h2>Optimal Solution</h2>
+        <p>Optimal number of units for X1: <strong>{{ product_A }}</strong></p>
+        <p>Optimal number of units for X2: <strong>{{ product_B }}</strong></p>
+        <p>Maximum Profit (Z): <strong>${{ total_profit }}</strong></p>
+        <button onclick="window.location.href='/'">Go Back</button>
+    </div>
+</body>
+</html>

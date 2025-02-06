@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background: #ff00f2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #218881;
+}
+
+.result-container {
+    background: rgb(20, 156, 83);
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    color: #ff00e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.example {
+        width: 400px;  /* Adjust size */
+        height: auto;
+        display: block;
+        margin: 20px auto;  /* Center the image */
+        border-radius: 20px; 
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Curved corners */
+      /* Center the image */
+}

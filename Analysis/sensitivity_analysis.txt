@@ -1,0 +1,17 @@
+
+Sensitivity Analysis Report:
+------------------------------------
+Profit per unit of Product A: 20
+Profit per unit of Product B: 30
+Labor required for Product A: 2
+Labor required for Product B: 3
+Material required for Product A: 1
+Material required for Product B: 2
+Total available labor hours: 50
+Total available raw materials: 40
+
+Optimal Solution:
+-----------------
+Optimal number of units for Product A: 0.0
+Optimal number of units for Product B: 16.666667
+Maximum Profit (Z): $500.00001000000003
