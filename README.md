@@ -110,3 +110,14 @@ Total available material=40
 
 # Web_App Images(https://tdhanushkumar-linear-programming-task-four.hf.space):
 
+**Interface of Web App**
+
+![Image](https://github.com/user-attachments/assets/d019e99e-dafe-4585-913d-638958daf670)
+
+**Date are Entered and the click the button "Optimize"**
+
+![Image](https://github.com/user-attachments/assets/b0ed7c06-c6fc-4838-b8c2-da4a2104b162)
+
+**Output**
+
+![Image](https://github.com/user-attachments/assets/f83a5713-6b2c-4da9-a1f4-5ed84fb7b002)
