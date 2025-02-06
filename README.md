@@ -110,7 +110,7 @@ Total available material=40
 
 # 🌐 Web App Images 📸
 
-🔗 Live Web App: tdhanushkumar-linear-programming-task-four.hf.space
+🔗 Live Web App: https://tdhanushkumar-linear-programming-task-four.hf.space
 
 # 🎨 Interface of Web App
 
