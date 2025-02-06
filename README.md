@@ -108,16 +108,24 @@ Total available material=40
 
 #
 
-# Web_App Images(https://tdhanushkumar-linear-programming-task-four.hf.space):
+# 🌐 Web App Images 📸
 
-**Interface of Web App**
+🔗 Live Web App: tdhanushkumar-linear-programming-task-four.hf.space
+
+# 🎨 Interface of Web App
+
+**🖥️ The main interface where users enter input values**
 
 ![Image](https://github.com/user-attachments/assets/d019e99e-dafe-4585-913d-638958daf670)
 
-**Date are Entered and the click the button "Optimize"**
+# ✍️ Entering Data & Clicking "Optimize"
+
+**📊 Users enter values and click the Optimize button to compute the best solution**
 
 ![Image](https://github.com/user-attachments/assets/b0ed7c06-c6fc-4838-b8c2-da4a2104b162)
 
-**Output**
+# 🏆 Optimal Solution Output
+
+**✅ The system calculates the optimal number of products and maximum profit 💰**
 
 ![Image](https://github.com/user-attachments/assets/f83a5713-6b2c-4da9-a1f4-5ed84fb7b002)
