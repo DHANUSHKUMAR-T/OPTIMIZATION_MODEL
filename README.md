@@ -34,45 +34,72 @@ This project is a Flask-based web application 🖥️ that allows users to solve
 
 #
 
-# ✨ Features
+**✨ Features**
+
 ✅ User-friendly web interface using Flask 🎨
+
 ✅ Takes input values from a form 📥
+
 ✅ Uses PuLP to solve Linear Programming (LP) problems 🔢
+
 ✅ Displays the optimal solution in a structured format 🏆
+
 ✅ Includes CSS for a better UI experience 🎨
 
 #
 
-# 🛠️ Technologies Used
+**🛠️ Technologies Used**
+
 🔹 Flask - Web framework
+
 🔹 PuLP - Linear Programming solver
+
 🔹 Jupyter Notebook - For analysis
+
 🔹 HTML, CSS - Frontend
 
 #
 
-# 📊 Analysis & Insights
+**📊 Analysis & Insights**
+
 This project includes a Jupyter Notebook (analysis.ipynb) 📘 that demonstrates:
+
 ✅ Problem Setup 📝
+
 ✅ Optimization Solution ⚡
+
 ✅ Visualization & Insights 📈
 
+
 #
 
-# 📌 Example Input
+**📌 Example Input**
+
 Parameter	Value
+
 Profit per unit of A=20
+
 Profit per unit of B=30
+
 Labor required for A=2
+
 Labor required for B=3
+
 Material required for A=1
+
 Material required for B=2
+
 Total available labor=50
+
 Total available material=40
 
+
 #
 
-# 🏆 Example Output
+**🏆 Example Output**
+
 ✅ Optimal Units of Product A: 5.71
+
 ✅ Optimal Units of Product B: 7.14
+
 ✅ Maximum Profit (Z): $164.29 💰
